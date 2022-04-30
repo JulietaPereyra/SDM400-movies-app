@@ -5,7 +5,7 @@
         <ion-buttons slot="end">
           <ion-button @click="openPicker">Filter</ion-button>
         </ion-buttons>
-        <ion-title>SDM400 - Movies List</ion-title>
+        <ion-title>SDM404 - Movies List</ion-title>
       </ion-toolbar>
     </ion-header>
     <ion-content :fullscreen="true" class="movies-tab">
