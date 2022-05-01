@@ -27,6 +27,7 @@ export default defineComponent({
 
 </script>
 
+
 <style scoped>
 
 ion-item.movie-item {
@@ -43,7 +44,6 @@ ion-item.movie-item {
   --border-width: 0px;
   --border-color: rgba(9,9,121,1);
   --border-radius: 20px;
-  box-shadow: 0 4px 8px 0 rgba(255, 255, 255, 0.2), 0 6px 20px 0 rgba(38, 0, 255, 0.19);
 }
 
 button.item-native {
